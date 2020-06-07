@@ -1,5 +1,4 @@
-![The Human Resources Manual](https://i.imgur.com/GelF7I6.png)
-[left]
+![The Human Resources Manual](https://i.imgur.com/GelF7I6.png)\
 Read this and you'll master the Human Resources technology!
 
-Welcome to the HumanResources wiki!
+## Contents:
