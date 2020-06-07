@@ -1,0 +1,2 @@
+![ResearchBenches](https://i.imgur.com/scoC79s.png)\
+The _simple_ and _high tech research benches_ have been modified to work as regular work stations, with only one recipe each: _research_. We also made them more compact, considering you'll need lots of space for your new book shelves. Remember: books on connected book shelves improve research speed. Other than that, they keep their base characteristics, including the ability to connect with a _multi-analyser_.
