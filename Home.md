@@ -3,3 +3,7 @@
 Read this to master this new, exciting technology!
 
 ## Contents:
+[Books and Bookshelves](https://github.com/jptrrs/HumanResources/wiki/Books-and-Bookshelves)
+[The new Research Benches](Rehttps://github.com/jptrrs/HumanResources/wiki/The-new-Research-Benches)
+[The new Study Desk]https://github.com/jptrrs/HumanResources/wiki/The-new-Study-Desk
+[Weapons Training]https://github.com/jptrrs/HumanResources/wiki/Weapon-Training
