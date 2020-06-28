@@ -1,4 +1,4 @@
-The changes this mod makes to the game aren't that many, but being to a key game mechanic they might take some getting used to. I'm writing this guide to lay out some fundamentals so you don't get too frustrated trying to figure this out. I hope it helps!
+The changes this mod makes to the game aren't that many, but being to some key game mechanics they might take some getting used to. I'm writing this guide to lay out some fundamentals so you don't get too frustrated trying to figure this out. I hope it helps!
 
 Keep in mind the mod is still in a beta testing phase, so there might be changes and improvements in the future.
 
