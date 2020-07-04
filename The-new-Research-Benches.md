@@ -3,6 +3,6 @@ The _simple_ and _high tech research benches_ have been modified to work as regu
 
 They can be found at the _Production_ menu on the _Architect_ tab.
 
-**Cost to build** (unchanged)
-Simple Research Bench: 25 steel + 75 wood/metal.
+**Cost to build** (unchanged)\
+Simple Research Bench: 25 steel + 75 wood/metal.\
 Hi-Tech Research Bench: 10 components + 250 wood/metal.
