@@ -7,4 +7,4 @@ When it comes to **writing books**, the pawn must also be assigned to _Study_ on
 
 They can be found at the _Production_ menu on the _Architect_ tab.
 
-**Cost to build:** 25 steel + 75 wood.
+**Cost to build:** 25 steel + 75 wood/metal.
