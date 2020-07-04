@@ -1,4 +1,4 @@
-The changes this mod makes to the game aren't that many, but being to some key game mechanics they might take some getting used to. I'm writing this guide to lay out some fundamentals so you don't get too frustrated trying to figure this out. I hope it helps!
+The changes this mod makes to the game aren't that many, but being to some key game mechanics they might take some getting used to. I'm writing this guide to lay out some fundamentals so you don't get too frustrated trying to figure this out. So here are seven steps to a technologicaly advanced colony using _Human Resources_. I hope it helps you!
 
 Keep in mind the mod is still in a beta testing phase, so there might be changes and improvements in the future.
 
@@ -30,3 +30,6 @@ The other training task is to **practice** a weapon. It only applies to weapons 
 You'll be able to aquire many technologies from the people you recruit, but that might not be fast enough. So you might still want to build a research bench and assign a researcher. The research benches have been modified to be more compact, so you can easily fit them into your library. You want to do that because they already benefit from the speed boost the bookshelves provide! Their workings have also been changed: they now operate just like any other workstation, where you assign bills for your pawns to follow. Other than that, they keep their base characteristics, including the ability to connect with a multi-analyser. You also still need a Hi-Tech Research Bench and the multi-analyser in order to pursue certain technologies.
 
 When you assign a **research** task, **remember to check the technologies you want researched**, as clicking on the main Research Tab won't do anything anymore. Also, note that when your colonists perform this task, the knowledge they create isn't added to the general colony pool like in vanilla, but to their own personal expertise. In order for them to share what they learned, they need to document it into a book at the study desk.
+
+### 7. If everything fails, you can still buy your way into technological advancement.
+Some traders sell books you can buy to stock your library. There are specialized caravans and orbital traders who will arrive from time to time and the exotic goods traders will also carry a few books in their inventory. When you visit other settlements, keep an eye for books they might be selling too. There isn't much of case for selling books in a Rimworld, however. People are too much concerned with their own survival.
