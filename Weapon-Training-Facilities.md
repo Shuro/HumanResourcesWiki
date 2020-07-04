@@ -1,4 +1,6 @@
 ![WeaponTraining](https://i.imgur.com/W7lBKOr.png)\
-The _training dummy_ and the _target stand_ are the facilities for learning to use melee and ranged weapons, respectively. Any weapon will be made avaiable for this once their associated technology is unlocked (_i.e._ added to the library). There are **two** recipes: use _learn weapon_ to aquire a new proficiency and _Practice melee/shooting_ to simply improve the pawn's skill on that kind of weapon (an easy way to gain XP and keep them sharp!). Pawns must be assigned to _learn_ on the work tab, and the relevant skill corresponds to the used weapon.
+The _training dummy_ and the _target stand_ are the facilities for learning to use melee and ranged weapons, respectively. Any weapon will be made avaiable for this once their associated technology is unlocked (_i.e._ added to the library). There are **two** recipes: use _learn weapon_ to aquire a new proficiency and _Practice melee/shooting_ to simply improve the pawn's skill on that kind of weapon (an easy way to gain XP and keep them sharp!). Pawns must be assigned to _study_ on the work tab, and the relevant skill corresponds to the used weapon.
+
+They can be found at the _Security_ menu on the _Architect_ tab.
 
 These were drawn by Shinzy and kindly ceded to be used on _Human Resources_. Thanks, Shinzy!
