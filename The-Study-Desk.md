@@ -6,3 +6,5 @@ In order to **learn** a technolgy, pawns must be assigned to _Study_ on the work
 When it comes to **writing books**, the pawn must also be assigned to _Study_ on the work tab and, obviously, he must know the desired tech already. Only undiscovered techs will show up on the ingredients filter panel.
 
 They can be found at the _Production_ menu on the _Architect_ tab.
+
+**Cost to build:** 25 steel + 75 wood.
