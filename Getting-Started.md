@@ -28,4 +28,5 @@ In order to **learn how to use a weapon** your pawn needs more than access to th
 
 The other training task is to **practice** a weapon. It only applies to weapons your pawn already knows how to use, of course, but exactly what weapon he will use isn't that important. That's because this task's goal is simply to increase your panw's skill in that **type** of weapon. The target stand increases shooting skills and the training dummy increases melee skills. 
 
-### 6. Researching
+### 6. Researching is still a thing.
+You'll be able to aquire many technologies from the people you recruit, but that might not be fast enough. So you might still want to build a research bench and assign a researcher.  
