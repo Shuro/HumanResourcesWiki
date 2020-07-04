@@ -4,3 +4,5 @@ This is where your pawns will acquire knowledge, using the _study technology_ re
 In order to **learn** a technolgy, pawns must be assigned to _Study_ on the work tab, the correspondent book must be available on your library and the pawn must already know all parent techs. Only discovered techs will show up on the ingredients filter panel. 
 
 When it comes to **writing books**, the pawn must also be assigned to _Study_ on the work tab and, obviously, he must know the desired tech already. Only undiscovered techs will show up on the ingredients filter panel.
+
+They can be found at the _Production_ menu on the _Architect_ tab.
