@@ -5,7 +5,7 @@ The game will generate a pawn's expertise when it is first spawned following the
 ### Technology expertise
 First, all technologies are classified according to their affinity with the basic skills ~~based on what kinds of things they unlock and what their descr~~ **using magic**.
 
-Primarily, the technologies a pawn gets is based on his faction's tech level. If the pawn is a player's colonist, the pool of technologies for this process might also include the faction's starting technologies, those added on the scenario or even ignore the faction tech level entirely, depending on the chosen settings.
+Primarily, the technologies a pawn gets are based on his faction's tech level. If the pawn is a player's colonist, the pool of technologies for this process might also include the faction's starting technologies, those added on the scenario or even ignore the faction tech level entirely, depending on the chosen settings.
 
 The base number of techs a pawn knows when he is created is:
 * Neolithic and Medieval: 3
