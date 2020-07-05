@@ -7,7 +7,7 @@ First, all technologies are classified according to their affinity with the basi
 
 Primarily, the technologies a pawn gets is based on his faction's tech level. If the pawn is a player's colonist, the pool of technologies for this process might also include the faction's starting technologies, those added on the scenario or even ignore the faction tech level entirely, depending on the chosen settings.
 
-The number of techs a pawn knows when he is created is based on his faction's tech level:
+The base number of techs a pawn knows when he is created is:
 * Neolithic and Medieval: 3
 * Industrial: 2
 * Spacer or higher: 1
