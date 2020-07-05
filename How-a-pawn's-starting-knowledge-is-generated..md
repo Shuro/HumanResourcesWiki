@@ -31,10 +31,9 @@ In case of a tie between skill levels, the passion levels break it.
 There's usually no techs related to the _Animal_ and _Social_ skills, so pawns specialized on those get random technologies instead.
 
 ### Weapon proficiency
-The weapons list is much more straightforward. Pawns get:
-1. **All the commom weapons**, things like beer, elephant tusks, orbital targeters and those weapons that aren't locked behind some technology (with some exceptions, mostly Royalty and other modded weapons that were patched in)
-2. **Weapons he knows how to craft**, according to his tech expertise
-3. **If his highest skill is _Shooting_, all ranged weapons** from his tech level (or, for the player's colonists and according to the chosen settings, all ranged weapons included in the scenario).
-4. **If his highest skill is _Melee_, all melee weapons** from his tech level (or, for the player's colonists and according to the chosen settings, all melee weapons included in the scenario).
+The weapons list is a much more straightforward process. Pawns get:
+1. **All the common weapons**, things like beer, elephant tusks, orbital targeters and those weapons that aren't locked behind some technology (with some exceptions, mostly Royalty and other modded weapons that were patched in);
+2. **Weapons he knows how to craft**, according to his tech expertise;
+3. If his highest skill is _Shooting_ or _Melee_, **all ranged or melee weapons** from his tech level, respectively (or, for the player's colonists and according to the chosen settings, all weapons included in the scenario);
 5. If he is a player's colonist and this setting is selected, **all weapons included in the scenario** (not default).
 6. If he is a NPC, the weapon he is carrying.
