@@ -3,6 +3,13 @@
 Read this to master this new, exciting technology!
 
 ## Contents:
+
+### [Getting Started](https://github.com/jptrrs/HumanResources/wiki/Getting-Started) 
+All you need to know to start using this mod.
+
+### [How a pawn's starting knowledge is generated.](https://github.com/jptrrs/HumanResources/wiki/How-a-pawn's-starting-knowledge-is-generated.)
+For the curious.
+
 ### New and Improved facilities:
 [Books and Bookshelves](https://github.com/jptrrs/HumanResources/wiki/Books-and-Bookshelves): this is how you will store your tecnologies.\
 [The modified Research Benches](https://github.com/jptrrs/HumanResources/wiki/The-new-Research-Benches): this is how your pawns are going to do research now.\
