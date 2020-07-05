@@ -31,5 +31,11 @@ You'll be able to aquire many technologies from the people you recruit, but that
 
 When you assign a **research** task, **remember to check the technologies you want researched**, as clicking on the main Research Tab won't do anything anymore. Also, note that when your colonists perform this task, the knowledge they create isn't added to the general colony pool like in vanilla, but to their own personal expertise. In order for them to share what they learned, they need to document it into a book at the study desk.
 
+As you can see, technology improvement for your colony will become it's own **production chain**:
+
+research tech > | document it into a book > | add book to library > | study tech > | do stuff with it.
+:---|:---|:---|:---|:---
+(research bench)|(study bench)|(book shelf)|(study bench)|(build/repair/grow/craft)
+
 ### 7. If everything fails, you can still buy your way into technological advancement.
 Some traders sell books you can buy to stock your library. There are specialized caravans and orbital traders who will arrive from time to time and the exotic goods traders will also carry a few books in their inventory. When you visit other settlements, keep an eye for books they might be selling too. There isn't much of case for selling books in a Rimworld, however. People are too much concerned with their own survival.
