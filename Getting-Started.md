@@ -1,4 +1,4 @@
-The changes this mod makes to the game aren't that many, but being to some key game mechanics they might take some getting used to. I'm writing this guide to lay out some fundamentals so you don't get too frustrated trying to figure this out. So here are seven steps to a technologicaly advanced colony using _Human Resources_. I hope it helps you!
+The changes this mod makes to the game aren't that many, but being to some key game mechanics they might take some getting used to. I'm writing this guide to lay out some fundamentals so you don't get too frustrated trying to figure this out. So here are seven steps to a technologically advanced colony using _Human Resources_. I hope it helps you!
 
 Keep in mind the mod is still in a beta testing phase, so there might be changes and improvements in the future.
 
