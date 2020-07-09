@@ -1,3 +1,15 @@
+## The Study Desk
+![StudyDesk](https://i.imgur.com/ZivxfT4.png)\
+This is where your pawns will acquire knowledge, using the _study technology_ recipe, and also output their own expertise into books, using the _document technology_ recipe. You can select which knowledge will be studied or documented on the ingredients panel. Both tasks are governed by the pawn's _intellectual_ skill and the time it takes to complete them depends on the technology complexity.
+
+In order to **learn** a technolgy, pawns must be assigned to _Study_ on the work tab, the correspondent book must be available on your library and the pawn must already know all parent techs. Only discovered techs will show up on the ingredients filter panel. 
+
+When it comes to **writing books**, the pawn must also be assigned to _Study_ on the work tab and, obviously, he must know the desired tech already. Only undiscovered techs will show up on the ingredients filter panel.
+
+They can be found at the _Production_ menu on the _Architect_ tab.
+
+**Cost to build:** 25 steel + 75 wood/metal.
+
 ## The Bookshelf
 ![BookShelf](https://i.imgur.com/uOLvVV4.png)\
 Books you buy or write yourself will only count as unlocked technologies when they're stored on a _bookshelf_. These constitute your library, and you should take good care of them. After all, a destroyed book means literally lost knowledge! Each shelf can store up to 12 books, and they link with research benches and study desks to improve researching and studying speed. This boost isn't a fixed and linear number, though. It depends on how many books your library holds on total, and the more books you have, the smaller the buff each book gives.
@@ -15,18 +27,6 @@ They can be found at the _Production_ menu on the _Architect_ tab.
 **Cost to build** (unchanged)\
 Simple Research Bench: 25 steel + 75 wood/metal.\
 Hi-Tech Research Bench: 10 components + 250 wood/metal.
-
-## The Study Desk
-![StudyDesk](https://i.imgur.com/ZivxfT4.png)\
-This is where your pawns will acquire knowledge, using the _study technology_ recipe, and also output their own expertise into books, using the _document technology_ recipe. You can select which knowledge will be studied or documented on the ingredients panel. Both tasks are governed by the pawn's _intellectual_ skill and the time it takes to complete them depends on the technology complexity.
-
-In order to **learn** a technolgy, pawns must be assigned to _Study_ on the work tab, the correspondent book must be available on your library and the pawn must already know all parent techs. Only discovered techs will show up on the ingredients filter panel. 
-
-When it comes to **writing books**, the pawn must also be assigned to _Study_ on the work tab and, obviously, he must know the desired tech already. Only undiscovered techs will show up on the ingredients filter panel.
-
-They can be found at the _Production_ menu on the _Architect_ tab.
-
-**Cost to build:** 25 steel + 75 wood/metal.
 
 ## Weapon Training Facilities
 
