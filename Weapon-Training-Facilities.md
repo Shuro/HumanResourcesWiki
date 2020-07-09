@@ -3,7 +3,7 @@ The _training dummy_ and the _target stand_ are the facilities for learning to u
 
 They can be found at the _Security_ menu on the _Architect_ tab.
 
-**Cost to build** (unchanged)\
+**Cost to build**\
 Training Dummy: 35 textile.\
 Target Stand: 25 wood.
 
