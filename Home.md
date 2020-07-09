@@ -7,7 +7,7 @@ Read this to master this new, exciting technology!
 ### [Getting Started](https://github.com/jptrrs/HumanResources/wiki/Getting-Started) 
 All you need to know to start using this mod.
 
-### [How a pawn's starting knowledge is generated.](https://github.com/jptrrs/HumanResources/wiki/How-a-pawn's-starting-knowledge-is-generated.)
+### [How a pawn's starting knowledge is generated](https://github.com/jptrrs/HumanResources/wiki/How-a-pawn's-starting-knowledge-is-generated.)
 For the curious.
 
 ### [The new and improved facilities](https://github.com/jptrrs/HumanResources/wiki/The-new-and-improved-facilities)
