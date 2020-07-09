@@ -38,4 +38,4 @@ research tech > | document it into a book > | add book to library > | study tech
 (research bench)|(study bench)|(book shelf)|(study bench)|(build/repair/grow/craft)
 
 ### 7. If everything fails, you can still buy your way into technological advancement.
-Some traders sell books you can buy to stock your library. There are specialized caravans and orbital traders who will arrive from time to time and the exotic goods traders will also carry a few books in their inventory. When you visit other settlements, keep an eye for books they might be selling too. There isn't much of case for selling books in a Rimworld, however. People are too much concerned with their own survival.
+Some traders sell books you can buy to stock your library. There are specialized caravans and orbital traders who will arrive from time to time and the exotic goods traders will also carry a few books in their inventory. When you visit other settlements, keep an eye for books they might be selling too. There isn't much of a case for selling books in a Rimworld, however. People are too much concerned with their own survival.
