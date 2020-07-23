@@ -18,7 +18,7 @@ We did something to comply with these mods:
 * [Simple Sidearms](https://steamcommunity.com/sharedfiles/filedetails/?id=927155256): patched.
 * [Stargate](https://steamcommunity.com/sharedfiles/filedetails/?id=1998203184): prevented weapons from being considered universally known.
 * [Vanilla Factions Expanded - Insectoids](https://steamcommunity.com/sharedfiles/filedetails/?id=2149755445): all starting pawns on the _Mercenary Squad_ scenario know how to use all starting weapons.
-* [Vanilla Storytellers Expanded - Perry Persistent](https://steamcommunity.com/sharedfiles/filedetails/?id=2149702069): so the _Man in the Coat_ knows how to use his weapon.
+* [Vanilla Storytellers Expanded - Perry Persistent](https://steamcommunity.com/sharedfiles/filedetails/?id=2149702069): made the _Man in the Coat_ know how to use his weapon.
 * [Vanilla Factions Expanded - Settlers](https://steamcommunity.com/sharedfiles/filedetails/?id=2052918119): all starting pawns on the _Bandits_ scenario know how to use all starting weapons.
 * [Weapon Tech](https://steamcommunity.com/sharedfiles/filedetails/?id=1542854752): prevented weapons from being considered universally known.
 * [ZARS Tribalism](https://steamcommunity.com/sharedfiles/filedetails/?id=1818707815) & [Production](https://steamcommunity.com/sharedfiles/filedetails/?id=1820484592): patched.
