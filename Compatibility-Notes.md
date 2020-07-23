@@ -29,9 +29,11 @@ Those mods conflict directly with _Human Resources_, the ideas simply don't work
 * [TechBlock](https://steamcommunity.com/sharedfiles/filedetails/?id=1970774610)
 * [Tech Sales](https://steamcommunity.com/sharedfiles/filedetails/1935360087)
 
-# Known issues
+# Known Issues
 There are issues when running these mods alongside _Human Resources_ and we can't solve it on our end (or we're still working on it, and if that's the case it will be noted). They're mostly harmless, though.
 
 * [Simple Search Bar](https://steamcommunity.com/sharedfiles/filedetails/?id=1827546987) is unable to search within our bills. We recommend using [Rimworld Search Agency](https://steamcommunity.com/sharedfiles/filedetails/?id=726479594) instead. It performs the same functions and works well.
 * [Techprinting](https://steamcommunity.com/sharedfiles/filedetails/?id=2100243898) (pending analysis)
 * [Ammunition](https://steamcommunity.com/sharedfiles/filedetails/?id=1892397131): learning or practicing weapons spends ammunition like crazy.
+
+If you find any issue with another mod, please report it [here](https://github.com/jptrrs/HumanResources/issues)
