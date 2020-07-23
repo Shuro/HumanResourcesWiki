@@ -17,7 +17,6 @@ We did something to comply with these mods:
 * [Rimsenal](https://steamcommunity.com/sharedfiles/filedetails/?id=725947920): prevented weapons from being considered universally known.
 * [Simple Sidearms](https://steamcommunity.com/sharedfiles/filedetails/?id=927155256): patched.
 * [Stargate](https://steamcommunity.com/sharedfiles/filedetails/?id=1998203184): prevented weapons from being considered universally known.
-* [Thinking Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=1819265371&searchtext=Thinking+Spot): though the author is still working on it.
 * [Vanilla Factions Expanded - Insectoids](https://steamcommunity.com/sharedfiles/filedetails/?id=2149755445): all starting pawns on the _Mercenary Squad_ scenario know how to use all starting weapons.
 * [Vanilla Storytellers Expanded - Perry Persistent](https://steamcommunity.com/sharedfiles/filedetails/?id=2149702069): so the _Man in the Coat_ knows how to use his weapon.
 * [Vanilla Factions Expanded - Settlers](https://steamcommunity.com/sharedfiles/filedetails/?id=2052918119): all starting pawns on the _Bandits_ scenario know how to use all starting weapons.
