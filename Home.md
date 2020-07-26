@@ -15,3 +15,5 @@ For the curious.
 [The Bookshelf](https://github.com/jptrrs/HumanResources/wiki/The-new-and-improved-facilities#the-bookshelf): this is how you will store your tecnologies.\
 [The new Research Benches](https://github.com/jptrrs/HumanResources/wiki/The-new-and-improved-facilities#the-new-research-benches): this is how your pawns are going to do research now.\
 [Weapons Training Facilities](https://github.com/jptrrs/HumanResources/wiki/The-new-and-improved-facilities#weapon-training-facilities): this is where you learn how to use new weapons and practice with them.
+
+### [Compatibility Notes](https://github.com/jptrrs/HumanResources/wiki/Compatibility-Notes)
