@@ -34,6 +34,6 @@ There are issues when running these mods alongside _Human Resources_ and we can'
 
 * [Simple Search Bar](https://steamcommunity.com/sharedfiles/filedetails/?id=1827546987) is unable to search within our bills. We recommend using [Rimworld Search Agency](https://steamcommunity.com/sharedfiles/filedetails/?id=726479594) instead. It performs the same functions and works well.
 * [Techprinting](https://steamcommunity.com/sharedfiles/filedetails/?id=2100243898) (pending analysis)
-* [Ammunition](https://steamcommunity.com/sharedfiles/filedetails/?id=1892397131): learning or practicing weapons spends ammunition like crazy.
+* [Ammunition](https://steamcommunity.com/sharedfiles/filedetails/?id=1892397131) & [Bullet Casings](https://steamcommunity.com/sharedfiles/filedetails/?id=1508411404): learning or practicing weapons spends ammunition like crazy.
 
 If you find any issue with another mod, please report it [here](https://github.com/jptrrs/HumanResources/issues)
