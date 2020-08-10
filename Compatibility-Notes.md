@@ -1,12 +1,12 @@
 # Dependecies
 You need one of those installed to run _Human Resources_ (beyond [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962), of course). Why? Read the description.
-* [Research Tree](steamcommunity.com/sharedfiles/filedetails/1266570759)
-* [Research Pal](steamcommunity.com/sharedfiles/filedetails/946390822)
+* [Research Tree](https://steamcommunity.com/sharedfiles/filedetails/1266570759)
+* [Research Pal](https://steamcommunity.com/sharedfiles/filedetails/946390822)
 
 # Integrated
 We did something to comply with these mods:
 * [Borderlands](https://steamcommunity.com/sharedfiles/filedetails/?id=1911170462): prevented weapons from being considered universally known.
-* [Go Explore](steamcommunity.com/sharedfiles/filedetails/1814100216): When a pawn succeds on a Research Request event, instead of your faction progressing toward the discovered tech, that is added to the pawns individual expertise. In order for the colony to benefit as a whole, he will have to write a book about it!
+* [Go Explore](https://steamcommunity.com/sharedfiles/filedetails/1814100216): When a pawn succeds on a Research Request event, instead of your faction progressing toward the discovered tech, that is added to the pawns individual expertise. In order for the colony to benefit as a whole, he will have to write a book about it!
 * [Humanoid Alien Races](https://steamcommunity.com/sharedfiles/filedetails/?id=839005762): non-human pawns were excluded from _Human Resources_ functions to make it compatible. This means androids from [Android Tiers](https://steamcommunity.com/sharedfiles/filedetails/?id=1386412863) and robots from [Misc. Robots++](https://steamcommunity.com/sharedfiles/filedetails/?id=724602224) don't get a tech tab and also can't learn, research or study techs. We believe this is very thematically appropriate! Other races that are marked as human-like still work.
 * [Material Filter](https://steamcommunity.com/sharedfiles/filedetails/?id=1541305730): patched.
 * [Pawnmorpher](https://steamcommunity.com/sharedfiles/filedetails/?id=1786466855): pawns on the _Escaped Morphs_  scenario know how to use all starting weapons.
